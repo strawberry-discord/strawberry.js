@@ -24,5 +24,7 @@
   "files": [
     "dist/**/*"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
 }
